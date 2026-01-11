@@ -56,7 +56,7 @@ export default function Hero() {
             {/* Box Foto - Ukuran mengecil di HP */}
             <div className="relative w-[260px] h-[340px] md:w-[320px] md:h-[420px] lg:w-[380px] lg:h-[500px] bg-gray-900 border border-white/10 overflow-hidden group rounded-2xl shadow-2xl">
               <Image
-                src="/images/Hero/Main.jpg"
+                src="/images/hero/main.jpg"
                 alt="Usamah Hasan"
                 fill
                 className="object-cover grayscale group-hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100"
